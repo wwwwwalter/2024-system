@@ -1,0 +1,3 @@
+ssh-keygen -t rsa -b 4096 -f /path/to/my_key
+
+ssh-copy-id -i ~/.ssh/id_rsa.pub username@servername
