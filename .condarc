@@ -17,3 +17,5 @@ custom_channels:
 
 envs_dirs:
   - D:\anaconda\envs
+
+auto_activate_base false
